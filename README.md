@@ -1,4 +1,4 @@
-# Intent-to-interact
+# MovInt: Model Intent-to-interact in VR
 This repository contains the scripts I wrote for my master 2 thesis, these also constitute my first consequent programming work.
 
 GOAL: The objective of the study was to model the intent to execute an upper-limb movement. 
