@@ -1,5 +1,5 @@
 # MovInt: Model Intent-to-interact in VR
-This repository contains the scripts I wrote for my master 2 thesis, these also constitute my first consequent programming work.
+This repository contains the scripts I wrote for my master 2 thesis, these also represent my first programming work.
 
 GOAL: The objective of the study was to model the intent to execute an upper-limb movement. 
 We recorded EEG and EMG data then we respectively explored, processed and compute classification metrics with the scripts below.
@@ -16,4 +16,4 @@ II. Probability:
 
 III. MovInt Metrics: Load the data computed about the previously built classifiers to compute confusion matrices and Receiver operating characteristic
 
-Please contact me for any desired access to the data.
+Please contact me if you want to access the data.
